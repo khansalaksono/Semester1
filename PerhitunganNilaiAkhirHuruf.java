@@ -1,4 +1,5 @@
 //https://www.hackerrank.com/contests/percabangan-tif-g/challenges/perhitungan-nilai-akhir-huruf/problem
+
 import java.io.*;
 import java.util.Scanner;
 
