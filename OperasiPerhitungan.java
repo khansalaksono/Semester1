@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/contests/tif-g/challenges/operasi-perhitungan
+
 import java.io.*;
 import java.util.Scanner;
 
