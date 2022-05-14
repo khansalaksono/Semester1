@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Solution {
+public class JarakManhattan {
     // NAMA    : KHANSA SALSABILA SANGDIVA LAKSONO
     // NIM     : 215150201111068
     // Dilarang menggunakan array, looping, dan method.
